@@ -7,7 +7,7 @@ define("DB_PASS", "");
 define("DB_NAME", "sportusrbiji");
 
 
-define("ROOT_PATH", "/PDPdev/");
-define("ROOT_URL", "http://localhost/PDPdev/");
+define("ROOT_PATH", "/MVCstage2/");
+define("ROOT_URL", "http://localhost/MVCstage2/");
 
 ?>
