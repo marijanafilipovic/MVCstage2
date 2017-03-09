@@ -1,4 +1,4 @@
-<?php
+
 <div class="login">
 <div id="pretragainner"  class="search2" style="width:350px;">
     <p >
