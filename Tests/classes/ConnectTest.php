@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Marijana
- * Date: 14.3.2017.
- * Time: 13.27
- */
 
 namespace Tests;
 require dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR .'autoload.php';
@@ -17,8 +11,6 @@ class ConnectTest extends TestCase
 {
 
     static private $pdo = null;
-
-    // only instantiate PHPUnit_Extensions_Database_DB_IDatabaseConnection once per test
 
     private $conn = null;
 
